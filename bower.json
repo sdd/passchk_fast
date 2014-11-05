@@ -1,0 +1,9 @@
+{
+  "name": "passchk_fast",
+  "version": "0.1.0",
+  "main": "passchk_fast.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sc0ttyd/passchk_fast"
+  }
+}
